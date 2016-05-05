@@ -1,0 +1,28 @@
+name: V.bynum
+favicon: null
+layout_spectrum: 0.9282629871740937
+typography_spectrum: 0.522419247077778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.40073840063996613
+  lightness: 0.239244157448411
+  saturation: 0.6535031499806792
+  rhythmicContrast: 0.45733303343877196
+purpose: []
