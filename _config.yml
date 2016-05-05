@@ -2,6 +2,7 @@ name: V.bynum
 favicon: null
 layout_spectrum: 0.9282629871740937
 typography_spectrum: 0.522419247077778
+title: 'Veyonte Bynum '
 cta:
   domain: null
   bucket: null
@@ -21,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.40073840063996613
+  brandStrength: 0.375
   lightness: 0.239244157448411
   saturation: 0.6535031499806792
-  rhythmicContrast: 0.45733303343877196
+  rhythmicContrast: 0.5
 purpose: []
